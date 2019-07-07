@@ -8507,6 +8507,11 @@ markdown-escape@^1.0.2:
   resolved "https://registry.yarnpkg.com/markdown-escape/-/markdown-escape-1.0.2.tgz#7184ae24554c49e84b82fd5648fe2a53d1f91b08"
   integrity sha1-cYSuJFVMSehLgv1WSP4qU9H5Gwg=
 
+markdown-table@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/markdown-table/-/markdown-table-1.1.3.tgz#9fcb69bcfdb8717bfd0398c6ec2d93036ef8de60"
+  integrity sha512-1RUZVgQlpJSPWYbFSpmudq5nHY1doEIv89gBtF0s4gW1GF2XorxcA/70M5vq7rLv0a6mhOUccRsqkwhwLCIQ2Q==
+
 marked-terminal@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/marked-terminal/-/marked-terminal-3.2.0.tgz#3fc91d54569332bcf096292af178d82219000474"
@@ -12233,7 +12238,7 @@ sisteransi@^0.1.1:
 
 size-limit@krzkaczor/size-limit#kk/add-codechecks-support:
   version "1.3.7"
-  resolved "https://codeload.github.com/krzkaczor/size-limit/tar.gz/cd9e57dccb580eafe1300be905e4fda036be47db"
+  resolved "https://codeload.github.com/krzkaczor/size-limit/tar.gz/8dabd3fa7979f976bb53cad51f8b3563d268f46c"
   dependencies:
     bytes "^3.1.0"
     chalk "^2.4.2"
@@ -12249,6 +12254,7 @@ size-limit@krzkaczor/size-limit#kk/add-codechecks-support:
     gzip-size "^5.1.1"
     make-dir "^3.0.0"
     markdown-escape "^1.0.2"
+    markdown-table "^1.1.3"
     optimize-css-assets-webpack-plugin "^5.0.1"
     react "16.8.6"
     read-pkg-up "^6.0.0"
