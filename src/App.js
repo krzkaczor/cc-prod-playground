@@ -1,22 +1,9 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import { kebabCase } from "lodash";
 
 class App extends Component {
   onClick = () => {
-    console.log("Test, test, test, test!");
-    console.log("123123124123");
-    console.log("TEEEEEEEEEST");
-    console.log("TEEEEEEEEEST2");
-    console.log("asdasdasd");
-    console.log("asdasdasd123123");
-    console.log("Kebab case!: ", kebabCase);
-    console.log("Kebab case!2: ", kebabCase);
-    console.log("Kebab case!3123123: ");
-    console.log("Kebab case!3123123: ");
-    console.log("Kebab case!3123123: ");
-    console.log("Kebab case!3123123: ");
     alert("AAAAAAAA this button does nothing!");
   };
 
