@@ -1,10 +1,12 @@
 import React, { Component } from "react";
+import { kebabCase } from "lodash";
+
 import logo from "./logo.svg";
 import "./App.css";
 
 class App extends Component {
   onClick = () => {
-    alert("AAAAAAAA this button does nothing!");
+    alert(kebabCase("AAAAAAAA this button does nothing!"));
   };
 
   render() {
