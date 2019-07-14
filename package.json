@@ -49,7 +49,7 @@
     "reg-publish-s3-plugin": "^0.7.18",
     "reg-simple-keygen-plugin": "^0.7.16",
     "reg-suit": "^0.7.17",
-    "size-limit": "krzkaczor/size-limit#0e8125789448c6237eec64e214f931869ad0551a",
+    "size-limit": "krzkaczor/size-limit#966c914bdfa9d7b3649c8aeef5898ec536e63e61",
     "storybook-chrome-screenshot": "^1.4.0",
     "typescript": "^3.2.4"
   }
