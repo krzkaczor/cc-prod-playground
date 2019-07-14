@@ -14,6 +14,9 @@ class App extends Component {
     console.log("Kebab case!: ", kebabCase);
     console.log("Kebab case!2: ", kebabCase);
     console.log("Kebab case!3123123: ");
+    console.log("Kebab case!3123123: ");
+    console.log("Kebab case!3123123: ");
+    console.log("Kebab case!3123123: ");
     alert("AAAAAAAA this button does nothing!");
   };
 
