@@ -12111,9 +12111,9 @@ sisteransi@^0.1.1:
   resolved "https://registry.yarnpkg.com/sisteransi/-/sisteransi-0.1.1.tgz#5431447d5f7d1675aac667ccd0b865a4994cb3ce"
   integrity sha512-PmGOd02bM9YO5ifxpw36nrNMBTptEtfRl4qUYl9SndkolplkrZZOW7PGHjrZL53QvMVj9nQ+TKqUnRsw4tJa4g==
 
-size-limit@krzkaczor/size-limit#kk/add-codechecks-support:
+size-limit@krzkaczor/size-limit#09e1d9c82eccee84ff729ad20fafbc42b16888ff:
   version "1.3.7"
-  resolved "https://codeload.github.com/krzkaczor/size-limit/tar.gz/8dabd3fa7979f976bb53cad51f8b3563d268f46c"
+  resolved "https://codeload.github.com/krzkaczor/size-limit/tar.gz/09e1d9c82eccee84ff729ad20fafbc42b16888ff"
   dependencies:
     bytes "^3.1.0"
     chalk "^2.4.2"
