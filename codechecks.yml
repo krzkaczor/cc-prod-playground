@@ -1,5 +1,0 @@
-checks:
-  - name: size-limit/codecheck
-    options:
-      files:
-        - path: "build/**/*.js"
