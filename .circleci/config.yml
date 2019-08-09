@@ -40,11 +40,17 @@ jobs:
           key: v3-dep-{{ checksum "yarn.lock" }}
 
       - run:
-          name: "make dir"
-          command: mkdir -p ./dummy
+          command: |
+            yarn build
+
       - run:
           name: Run tests
-          command: yarn test
+          command: |
+            yarn build:serve &
+            sleep 5
+            curl localhost:8080
+            yarn test
+            curl localhost:8080
 
 workflows:
   version: 2

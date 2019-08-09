@@ -1,5 +1,4 @@
 checks:
-  - name: size-limit/codecheck
+  - name: lighthouse-ci-krzkaczor/bin/codecheck
     options:
-      files:
-        - path: "build/**/*.js"
+      url: http://127.0.0.1:8080
