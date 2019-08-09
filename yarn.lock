@@ -8663,10 +8663,10 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-lighthouse-ci-krzkaczor@^1.10.4:
-  version "1.10.4"
-  resolved "https://registry.yarnpkg.com/lighthouse-ci-krzkaczor/-/lighthouse-ci-krzkaczor-1.10.4.tgz#3bc3ad05d5aae67fee23e09f1010a4c6ad645192"
-  integrity sha512-DJU0VgMy5ox+KRbu/ETe0/cT2qdPReYkkaYrh9KmYa9eIOD4CteO1vE9xKioKlgNv7Dg4tbhFB2VDnTAcxTNog==
+lighthouse-ci-krzkaczor@^1.10.5:
+  version "1.10.5"
+  resolved "https://registry.yarnpkg.com/lighthouse-ci-krzkaczor/-/lighthouse-ci-krzkaczor-1.10.5.tgz#0b12eb1f619d6846f273f6cfb5a44ab8eab81664"
+  integrity sha512-kyyXTlt2GBuIGiqlaOfZBAHsIEj/mPmrjE8JeSC2tfhFakNOW2Ex+ZsNejdIt704Muul7jow6mNXRoN0X+XTKg==
   dependencies:
     chrome-launcher "^0.11.1"
     lighthouse "^5.1.0"

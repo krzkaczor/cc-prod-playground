@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@storybook/addon-viewport": "^4.1.7",
-    "lighthouse-ci-krzkaczor": "^1.10.4",
+    "lighthouse-ci-krzkaczor": "^1.10.5",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
