@@ -39,6 +39,7 @@
     "@codechecks/build-size-watcher": "^0.0.14",
     "@codechecks/client": "^0.1.5",
     "@codechecks/lighthouse-keeper": "^0.0.1",
+    "@codechecks/vis-reg": "^0.0.1",
     "@storybook/addon-actions": "^4.1.7",
     "@storybook/addon-links": "^4.1.7",
     "@storybook/addons": "^4.1.7",
