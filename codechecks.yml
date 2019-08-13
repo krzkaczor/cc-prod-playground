@@ -3,7 +3,9 @@ checks:
     options:
       url: http://127.0.0.1:8080
 
-  - name: vis-reg
+  - name: vis-reg-routes
     options:
-      collectionName: "logos"
-      imagesPath: "./logos"
+      collectionName: app
+      buildPath: ./build
+      routes:
+        - /
