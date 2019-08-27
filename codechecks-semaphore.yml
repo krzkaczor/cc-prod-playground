@@ -1,0 +1,8 @@
+checks:
+  - name: vis-reg-routes
+    options:
+      name: semaphore
+      collectionName: app
+      buildPath: ./build
+      routes:
+        - /
