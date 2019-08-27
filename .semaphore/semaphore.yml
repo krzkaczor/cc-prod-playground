@@ -15,6 +15,7 @@ blocks:
           commands:
             - checkout
             - cache restore
+            - nvm use 10
             - yarn install --frozen-lockfile
             - cache store
             - yarn build
