@@ -9,3 +9,4 @@ jobs:
       - name: yarn
         run: |
           yarn install
+          yarn codechecks ./codechecks-github-actions.yml
