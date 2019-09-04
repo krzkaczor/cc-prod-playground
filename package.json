@@ -37,7 +37,7 @@
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@codechecks/build-size-watcher": "^0.0.14",
-    "@codechecks/client": "0.1.7-beta.1",
+    "@codechecks/client": "^0.1.8-beta.4",
     "@codechecks/lighthouse-keeper": "^0.0.1",
     "@codechecks/vis-reg-routes": "^0.0.2",
     "@storybook/addon-actions": "^4.1.7",
