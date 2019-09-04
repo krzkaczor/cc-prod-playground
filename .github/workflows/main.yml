@@ -1,4 +1,4 @@
-on: [push, pr]
+on: push
 name: CI
 jobs:
   build-and-publish:
