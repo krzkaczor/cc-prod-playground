@@ -1,4 +1,4 @@
-on: push
+on: [push, pr]
 name: CI
 jobs:
   build-and-publish:
@@ -10,5 +10,5 @@ jobs:
         run: |
           yarn install
           DEBUG=* yarn codechecks ./codechecks-github-actions.yml
-        env: # Or as an environment variable
+        env:
           CC_SECRET: ${{ secrets.CC_SECRET }}
