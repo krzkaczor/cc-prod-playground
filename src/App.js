@@ -5,6 +5,9 @@ import "./App.css";
 class App extends Component {
   onClick = () => {
     alert("AAAAAAAA this button does nothing!");
+    alert("AAAAAAAA this button does nothing!");
+    alert("AAAAAAAA this button does nothing!");
+    alert("AAAAAAAA this button does nothing!");
   };
 
   render() {
