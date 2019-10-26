@@ -3,10 +3,6 @@ import logo from "./logo.svg";
 import "./App.css";
 
 class App extends Component {
-  onClick = () => {
-    alert("AAAAAAAA this button does nothing!");
-  };
-
   render() {
     return (
       <div className="App">
@@ -23,7 +19,6 @@ class App extends Component {
           >
             Learn React
           </a>
-          <button onClick={this.onClick}>CLICK ME</button>
         </header>
       </div>
     );

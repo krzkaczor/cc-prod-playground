@@ -9,6 +9,7 @@ jobs:
       - name: yarn
         run: |
           yarn install
+          yarn build
           DEBUG=* yarn codechecks ./codechecks-github-actions.yml
         env:
           CC_SECRET: ${{ secrets.CC_SECRET }}
