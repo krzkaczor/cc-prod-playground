@@ -47,7 +47,7 @@
     "await-exec": "^0.1.2",
     "babel-loader": "^8.0.5",
     "http-server": "^0.11.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "size-limit": "krzkaczor/size-limit#598567c7d9dbeaa50464e5e265350f4f8ddcf50c",
     "storybook-chrome-screenshot": "^1.4.0",
     "typescript": "^3.2.4"
