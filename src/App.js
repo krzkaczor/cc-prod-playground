@@ -5,6 +5,7 @@ import "./App.css";
 class App extends Component {
   onClick = () => {
     alert("AAAAAAAA this button does nothing!");
+    alert("AAAAAAAA this button does nothing!");
   };
 
   render() {
@@ -24,6 +25,7 @@ class App extends Component {
             Learn React
           </a>
           <button onClick={this.onClick}>CLICK ME</button>
+          <button onClick={this.onClick}>CLICK ME 123</button>
         </header>
       </div>
     );
